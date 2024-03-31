@@ -1,7 +1,6 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <link href="stylesheet" rel="style.css>
 <title>LA GUINÉE </title>
   
 </head>
